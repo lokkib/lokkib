@@ -7,9 +7,8 @@ I am currently completing courses in data analytics, and at the same time I am t
 I really enjoy the process of finding growth points for a business and generating product hypotheses based on data. I hope to continue to develop in this area.
 
 🌱 <b>Education</b>:
-- Certificate of Completion web-developing
+- Certificate of Completion web-developing (SkyPro, online university of IT professions)
   <br>
- ![image](https://github.com/lokkib/lokkib/assets/101714147/591e5bf5-ef3b-4bf7-81bc-2790aaade5a4)
 
 - Certificate of Completion Data-analysis is in proccess
 
