@@ -10,7 +10,7 @@ I really enjoy the process of finding growth points for a business and generatin
 - Certificate of Completion web-developing (SkyPro, online university of IT professions)
   <br>
 
-- Certificate of Completion Data-analysis is in proccess
+- Certificate of Completion Data-analysis (Karpov Courses, online university of IT professions)
 
 
 🔭 <b>Languages and tools</b>:
